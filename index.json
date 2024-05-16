@@ -121,12 +121,12 @@ section {
           </grid-bg>
           <grid-box id="NZEZMUI">
             <grid-head id="PEmjdrD">
-              <grid-title id="sKSBvdP" contenteditable="true" style="color: rgb(255, 255, 255);">Lorem ipsum</grid-title>
+              <grid-title id="sKSBvdP" contenteditable="true" style="color: rgb(255, 255, 255);">TRAVEL GUIDE</grid-title>
               <grid-desc id="tHtrSrM" contenteditable="true" style="color: rgb(214, 214, 214);">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
             <grid-item id="wcANzqE">
         <item-head id="UGxYzwh">
-          <img id="kWVNsTy" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="kWVNsTy" src="https://images.unsplash.com/photo-1707343848552-893e05dba6ac?ixid=M3wzOTcwOTd8MXwxfHNlYXJjaHwxfHx0cmF2ZWx8ZW58MHwwfHx8MTcxNTg2NTI4OHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="HxqGtrP">
           <item-title id="LLIdVYd" contenteditable="true">Lorem ipsum</item-title>
@@ -135,7 +135,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('wcANzqE')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="yuOqsIm">
         <item-head id="GNiaHDA">
-          <img id="JMnsPVM" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="JMnsPVM" src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHx0cmF2ZWx8ZW58MHwwfHx8MTcxNTg2NTI4OHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="LKmFvyY">
           <item-title id="iFBuVDb" contenteditable="true">Lorem ipsum</item-title>
@@ -144,7 +144,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('yuOqsIm')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="JPeuCKl">
         <item-head id="CTeziom">
-          <img id="xhgieUn" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="xhgieUn" src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHx0cmF2ZWx8ZW58MHwwfHx8MTcxNTg2NTI4OHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="LoScalH">
           <item-title id="ChUkubP" contenteditable="true">Lorem ipsum</item-title>
@@ -153,7 +153,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('JPeuCKl')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="pOTnGOL">
         <item-head id="hRoBLux">
-          <img id="goBJrAT" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="goBJrAT" src="https://images.unsplash.com/photo-1488085061387-422e29b40080?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0fHx0cmF2ZWx8ZW58MHwwfHx8MTcxNTg2NTI4OHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="Mayoljp">
           <item-title id="NNKZHJr" contenteditable="true">Lorem ipsum</item-title>
@@ -162,7 +162,7 @@ section {
         <button class="no-export grid-delete-item" onclick="deleteItem('pOTnGOL')"><img src="./assets/svg/icons/delete.svg"></button>
       </grid-item><grid-item id="QHWkoRu">
         <item-head id="KfuzXEi">
-          <img id="hmrkxbC" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy">
+          <img id="hmrkxbC" src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHx0cmF2ZWx8ZW58MHwwfHx8MTcxNTg2NTI4OHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="PpiOHkJ">
           <item-title id="Khbguiw" contenteditable="true">Lorem ipsum</item-title>
