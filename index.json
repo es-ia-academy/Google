@@ -26,7 +26,7 @@ section {
 </style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) {
   grid-body {
     padding: 15px;
-    gap: 5px;
+    gap: 15px;
   }
 }
 </style><grid-body id="grid-body"><section id="xlKgjUI" data-type="section"><!--CSS--><style id="KjQKTRp" type="text/css" data-type="css" data-size="laptop" data-content="section">
