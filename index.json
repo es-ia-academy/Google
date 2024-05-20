@@ -29,7 +29,48 @@ section {
     gap: 15px;
   }
 }
-</style><grid-body id="grid-body"><section id="VovtDcj" data-type="section" class="grid-item"><style id="HDCwCij" type="text/css" data-type="css">
+</style><grid-body id="grid-body"><section id="ntwnJNB" data-type="section">
+      <style id="lFLIpTh" type="text/css" data-type="css">
+        
+    @media screen and (min-width:0px){#ntwnJNB{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#vwtHQhQ{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
+    @media screen and (min-width:0px){#dtlmHiH{}}
+    @media screen and (min-width:0px){#ezRARQu{height:100px;width:auto;object-fit:contain}}
+    @media screen and (min-width:0px){#IyTxuyK{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    @media screen and (min-width:0px){#zqJyUFq{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
+    @media screen and (min-width:0px){#utCVUMy{height:auto;}}
+    @media screen and (min-width:0px){#swnlVzQ{height:auto;padding:10px;border:none;border-radius:10px;}}
+    @media screen and (max-width:640px){#IyTxuyK{display:none;}}
+    @media screen and (max-width:640px){#vwtHQhQ{grid-template-columns:repeat(2, auto); place-content:space-around;}}
+    
+    
+    
+      </style>
+      
+        <div id="vwtHQhQ" data-type="raw-html">
+            <div id="dtlmHiH">
+              <img id="ezRARQu" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-fg" loading="lazy">
+            </div>
+
+            <div id="IyTxuyK">
+              <a id="jroTVRn" contenteditable="true" href="https://www">HOME</a>
+              <a id="FRyxkTa" contenteditable="true" href="https://www">ABOUT</a> 
+              <a id="BuIkzEp" contenteditable="true" href="https://www">SERVICES</a> 
+              <a id="cHCVNIn" contenteditable="true" href="https://www">CONTACT</a> 
+              <a id="hQVEopo" contenteditable="true" href="https://www">BLOG</a>  
+            </div>
+
+            <div id="utCVUMy">
+              <button id="swnlVzQ">MENU</button>
+            </div>
+        </div>
+
+        <script id="acdfr1457" data-type="raw-js">function sayHello(){alert('hello')}</script>
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
+  </section><section id="VovtDcj" data-type="section" class="grid-item"><style id="HDCwCij" type="text/css" data-type="css">
       
     @media screen and (min-width:0px){#VovtDcj{width:100%;height:80vh;position:relative;}}
     @media screen and (min-width:0px){#WMXiMHV{width:100%;height:100%;position:relative}}
@@ -217,4 +258,8 @@ grid-box#EpsfDzK item-head img {
       padding:0;
       grid-template-columns: 1fr 1fr;
   }
-  }</style><!--HTML--><div id="euFhxZd" data-type="html"><grid-container id="KMpisfG"><grid-bg id="gmkAwaw"><bg-color id="tpXoNSb" style="background-color: rgb(0, 0, 0);"></bg-color></grid-bg><grid-box id="EpsfDzK"><grid-head id="IQiCNjI"><grid-title id="teUUZtT" contenteditable="true">Nos Formations IA en cours de development...</grid-title><grid-desc id="IcckKyl" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="dIsOEYn"><item-head id="PFJtCfN"><img id="uMzTDcO" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxNTk1MDAzMnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="llJbCkd"><item-title id="UnmrtmA" contenteditable="true">IA Web Expert</item-title><item-desc id="HHVkEMV" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('dIsOEYn')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="UYJQdQQ"><item-head id="tsWppDp"><img id="aZQgWit" src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNHx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxNTk1MDA0Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="uOXKJAc"><item-title id="PDgjhCQ" contenteditable="true">IA Automation Expert</item-title><item-desc id="bwcBJfH" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('UYJQdQQ')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="PYFNkoP"><item-head id="lSHUnCI"><img id="dwIKBXC" src="https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxNTk1MDA0Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="mSuikLy"><item-title id="xPUVnFv" contenteditable="true">IA Code Expert</item-title><item-desc id="LIdOyxS" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('PYFNkoP')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="qEvHkTF"><item-head id="DfaNOcS"><img id="xJwBuWA" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="NhgmgpI"><item-title id="SQbVfwm" contenteditable="true">IA Assistant Expert</item-title><item-desc id="hpRoHaY" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('qEvHkTF')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="RZxPkBj" class="no-export grid-add-item" onclick="itemNew('EpsfDzK','RZxPkBj')"><img id="server-addItem" src="../global/file/add-white.svg"></button></grid-box></grid-container></div><!--JS--><script id="nIXTzdm" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section></grid-body>
+  }</style><!--HTML--><div id="euFhxZd" data-type="html"><grid-container id="KMpisfG"><grid-bg id="gmkAwaw"><bg-color id="tpXoNSb" style="background-color: rgb(0, 0, 0);"></bg-color></grid-bg><grid-box id="EpsfDzK"><grid-head id="IQiCNjI"><grid-title id="teUUZtT" contenteditable="true">Nos Formations IA en cours de development...</grid-title><grid-desc id="IcckKyl" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="dIsOEYn"><item-head id="PFJtCfN"><img id="uMzTDcO" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxNTk1MDAzMnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="llJbCkd"><item-title id="UnmrtmA" contenteditable="true">IA Web Expert</item-title><item-desc id="HHVkEMV" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('dIsOEYn')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="UYJQdQQ"><item-head id="tsWppDp"><img id="aZQgWit" src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNHx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxNTk1MDA0Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="uOXKJAc"><item-title id="PDgjhCQ" contenteditable="true">IA Automation Expert</item-title><item-desc id="bwcBJfH" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('UYJQdQQ')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="PYFNkoP"><item-head id="lSHUnCI"><img id="dwIKBXC" src="https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxNTk1MDA0Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="mSuikLy"><item-title id="xPUVnFv" contenteditable="true">IA Code Expert</item-title><item-desc id="LIdOyxS" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('PYFNkoP')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><grid-item id="qEvHkTF"><item-head id="DfaNOcS"><img id="xJwBuWA" src="../global/file/empty.svg" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="NhgmgpI"><item-title id="SQbVfwm" contenteditable="true">IA Assistant Expert</item-title><item-desc id="hpRoHaY" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('qEvHkTF')"><img src="./assets/svg/icons/delete.svg"></button></grid-item><button id="RZxPkBj" class="no-export grid-add-item" onclick="itemNew('EpsfDzK','RZxPkBj')"><img id="server-addItem" src="../global/file/add-white.svg"></button></grid-box></grid-container></div><!--JS--><script id="nIXTzdm" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section>
+    
+    
+  
+    </grid-body>
